@@ -1,0 +1,23 @@
+/* Add your custom styles for the home tab here */
+.home-tab {
+    padding: 20px;
+}
+
+.count-boxes {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.count-box {
+    width: 100px;
+    height: 100px;
+    background-color: #007bff;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    font-size: 24px;
+    font-weight: bold;
+}

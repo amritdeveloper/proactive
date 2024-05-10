@@ -1,0 +1,35 @@
+/* Add your custom styles for the Add/Delete Data Tab here */
+.add-delete-data-tab {
+    padding: 20px;
+}
+
+.add-delete-data-tab h2 {
+    margin-bottom: 20px;
+}
+
+.add-delete-data-tab table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.add-delete-data-tab th, .add-delete-data-tab td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.add-delete-data-tab th {
+    background-color: #f2f2f2;
+}
+
+.add-delete-data-tab button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+.add-delete-data-tab button:hover {
+    background-color: #0056b3;
+}
